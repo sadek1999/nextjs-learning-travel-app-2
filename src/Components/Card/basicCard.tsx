@@ -5,7 +5,7 @@ export default function BasicCard() {
   return (
     <div>
       
-      <div>
+      <div className="border-4 p-5 w-96  bg-white">
         <Image
          src={'https://media.easemytrip.com/media/Blog/India/637870903728666071/637870903728666071B4iTsT.jpg'}
           height={40} width={90} 
